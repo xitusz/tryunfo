@@ -1,0 +1,10 @@
+.all-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.all-cards .card-container {
+  flex-basis: 40%;
+  margin: 30px 0;
+}
